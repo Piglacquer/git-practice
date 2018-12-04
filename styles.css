@@ -3,3 +3,7 @@ div {
     height: 100%;
     background-image: 'https://www.hakaimagazine.com/wp-content/uploads/aafc_banner.jpg';
 }
+
+h1 {
+    color: black;
+}
